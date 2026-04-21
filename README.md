@@ -2,7 +2,7 @@
 
 A backend API built with **FastAPI** that supports user authentication, media uploads (images/videos), and a feed system.  
 Files are stored using **ImageKit**, and user authentication is handled via **JWT** using `fastapi-users`.
-
+![git project](git2.png)
 ---
 
 ## ✨ Features
